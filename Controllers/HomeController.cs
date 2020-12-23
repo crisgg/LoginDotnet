@@ -28,6 +28,13 @@ namespace Login.Controllers
             return View();
         }
 
+        [HttpPost]
+        public ActionResult Index(string Name, string Message)
+        {
+            Console.WriteLine(Name);
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

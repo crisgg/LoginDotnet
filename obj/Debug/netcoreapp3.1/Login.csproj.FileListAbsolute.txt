@@ -49,3 +49,5 @@ C:\Users\maxco\Desktop\Proyectos\Login\obj\Debug\netcoreapp3.1\staticwebassets\L
 C:\Users\maxco\Desktop\Proyectos\Login\obj\Debug\netcoreapp3.1\Login.dll
 C:\Users\maxco\Desktop\Proyectos\Login\obj\Debug\netcoreapp3.1\Login.pdb
 C:\Users\maxco\Desktop\Proyectos\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
+C:\Users\maxco\Desktop\Proyectos\Login\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\maxco\Desktop\Proyectos\Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Address\Default.cshtml.g.cs
